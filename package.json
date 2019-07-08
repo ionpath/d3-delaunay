@@ -38,6 +38,9 @@
     "delaunator": "4"
   },
   "devDependencies": {
+    "@babel/cli": "^7.5.0",
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
     "@observablehq/tape": "~0.0.1",
     "eslint": "5",
     "esm": "3",
